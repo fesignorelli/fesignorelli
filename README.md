@@ -9,6 +9,6 @@ Olá! Sou apaixonada por criar interfaces incríveis e funcionais. Meu foco é o
   
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fesignorelli&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesignorelli&show_progress=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fesignorelli&show_icons=true&theme=rose)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fesignorelli&show_progress=true&theme=rose)
 
