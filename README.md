@@ -4,7 +4,7 @@
   </a>
 </div>
 
-Olá! Sou apaixonada por criar interfaces incríveis e funcionais. Meu foco é o desenvolvimento front-end, onde busco unir estética e usabilidade para proporcionar experiências únicas aos usuários. Atualmente, estou estudando Análise e Desenvolvimento de Sistemas nas Belas Artes, o que me permite integrar a criatividade artística com a lógica da programação. 💻✨
+Olá! Sou apaixonada por criar interfaces incríveis e funcionais. Meu foco é o desenvolvimento front-end, onde busco unir estética e usabilidade para proporcionar experiências únicas aos usuários. Atualmente, estou estudando Web Design na Fiap, o que me permite integrar a criatividade artística com a lógica da programação. 💻✨
 
   
 
