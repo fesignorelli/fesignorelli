@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=EDA1D6"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F522B3"/>
 
 <div align="center">
   <samp>
@@ -7,9 +7,6 @@
       <br>
       Olá, meu nome é Fernanda !
       <br>
-</div>
-<div align="center">
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=21&c=5cadc0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
       
 <br>
@@ -23,7 +20,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ae2323&width=900&size=21&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=F522B3&width=900&size=21&center=true&lines=I+am+from+Brazil;Web+Designer+Student+At+Fiap;And+Front+End+Developer;Be+welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
@@ -36,10 +33,10 @@
     <br>
 <div align="center">
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamillyvm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamillyvm&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamillyvm&theme=nord_dark&utcOffset=8) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fesignorelli&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fesignorelli&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fesignorelli&theme=nord_dark&utcOffset=8) |
 | :-: | :-: | :-: |
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafaelans&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=nord)](https://git.io/streak-stats) |
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fesignorelli&theme=nord_dark) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fesignorellivm&theme=nord)](https://git.io/streak-stats) |
 | :-: | :-: |
   
 </div>
@@ -77,4 +74,4 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EDA1D6&height=100&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F522B3&height=100&section=footer"/>
